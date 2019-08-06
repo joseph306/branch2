@@ -1,2 +1,3 @@
 # branch2
-added a branch1
+branch1
+branch2
